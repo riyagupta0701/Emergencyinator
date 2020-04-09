@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>968122540478-h63s5o1ttk4a57fboeu88vh8tprmlatd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.968122540478-h63s5o1ttk4a57fboeu88vh8tprmlatd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_UjK1PpwLIrvcRW1iFi7ADKU2JIWT8is</string>
+	<key>GCM_SENDER_ID</key>
+	<string>968122540478</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Riya-Gupta.Emergencyinator</string>
+	<key>PROJECT_ID</key>
+	<string>emergencyinator-4fc9a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emergencyinator-4fc9a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:968122540478:ios:bfb75143952d17c92259ef</string>
+	<key>DATABASE_URL</key>
+	<string>https://emergencyinator-4fc9a.firebaseio.com</string>
+</dict>
+</plist>
